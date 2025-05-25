@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <h1 style={{color : "red"}}>App</h1>
+    <h1>App</h1>
   )
 }
 
